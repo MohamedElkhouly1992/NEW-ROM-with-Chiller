@@ -1,0 +1,3 @@
+# Optional surrogate-model dependencies. The main Streamlit app does not require these to start.
+catboost==1.2.7
+shap==0.46.0
